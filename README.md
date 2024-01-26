@@ -5,7 +5,7 @@ Edit telegram.toml and include your telegram token and the chatid of the receive
 
 Then just call the programm this way:
 
-telegram <your message>
+telegram >your text<
 
 for example:
 
