@@ -1,4 +1,4 @@
-module github.com/joehil/telegram
+module github.com/joehil/telegramSend
 
 go 1.21.6
 
